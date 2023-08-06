@@ -65,12 +65,18 @@ nav a {
     padding: 15px 30px;
 
 }
+#b-contact{
+    background-color: white;
+    border-radius: 5px;
+border: 1px solid #FD6E0A;
+color: #FD6E0A;
+}
 
 .header {
     background: #FFF8F3;
-    background-image: url(../images/header_bg.png);
+    background-image: url('../images/header_bg.png'),url('../images/developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, left;
 
 }
 
